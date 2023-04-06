@@ -1,19 +1,19 @@
 
-	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(α¶κΦψÿÿÿÿHΏRMINORZ
+q
+java:S18542"9Remove this useless assignment to local variable "level".(ÿ»ψÿÿÿÿ8ι‹­επ0HΣRMAJORZ
+CODE_SMELL
+`
+java:S1656"/Remove or correct this useless self-assignment.(ÿ»ψÿÿÿÿ8ι‹­επ0HΤRMAJORZBUG
+›
+java:S4165"cRemove this useless assignment; "level" already holds the assigned value along all execution paths.(ÿ»ψÿÿÿÿ8ι‹­επ0HΥRMAJORZ
 CODE_SMELL
 b
-java:S1135"2Complete the task associated to this TODO comment.(ƒ® ϊÿÿÿÿHΐRINFOZ
+java:S1135"2Complete the task associated to this TODO comment.(ƒ® ϊÿÿÿÿHΦRINFOZ
 CODE_SMELL
 `
-java:S1656"/Remove or correct this useless self-assignment.(ÿ»ψÿÿÿÿ8ι‹­επ0HΑRMAJORZBUG
+java:S16562"/Remove or correct this useless self-assignment.(ÿ»ψÿÿÿÿ8ι‹­επ0HΧRMAJORZBUG
 ›
-java:S4165"cRemove this useless assignment; "level" already holds the assigned value along all execution paths.(ÿ»ψÿÿÿÿ8ι‹­επ0HΒRMAJORZ
+java:S41652"cRemove this useless assignment; "level" already holds the assigned value along all execution paths.(ÿ»ψÿÿÿÿ8ι‹­επ0HΨRMAJORZ
 CODE_SMELL
-`
-java:S16562"/Remove or correct this useless self-assignment.(ÿ»ψÿÿÿÿ8ι‹­επ0HΓRMAJORZBUG
-›
-java:S41652"cRemove this useless assignment; "level" already holds the assigned value along all execution paths.(ÿ»ψÿÿÿÿ8ι‹­επ0HΔRMAJORZ
-CODE_SMELL
-q
-java:S18542"9Remove this useless assignment to local variable "level".(ÿ»ψÿÿÿÿ8ι‹­επ0HΕRMAJORZ
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(α¶κΦψÿÿÿÿHΩRMINORZ
 CODE_SMELL
