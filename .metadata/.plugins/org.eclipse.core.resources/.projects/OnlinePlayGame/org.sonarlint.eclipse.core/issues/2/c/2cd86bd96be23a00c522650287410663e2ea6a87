@@ -1,0 +1,18 @@
+
+c
+java:S3655&"7Call "Optional#isPresent()" before accessing the value.(‡æ¯¤8ÀµàÅğ0HİRMAJORZBUG
+Œ
+java:S1192 "QDefine a constant instead of duplicating this literal "Game Not In List" 3 times.(ªµÓéıÿÿÿÿ8ÀµàÅğ0HŞRCRITICALZ
+CODE_SMELL
+h
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(¨ËËæıÿÿÿÿ8ÀµàÅğ0HâRMAJORZBUG
+‚
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿHãRMINORZ
+CODE_SMELL
+
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½ÀıÿÿÿÿHåRMINORZ
+CODE_SMELL
+h
+java:S36551"7Call "Optional#isPresent()" before accessing the value.(¨ËËæıÿÿÿÿ8ÀµàÅğ0HçRMAJORZBUG
+s	java:S1257"<This block of commented-out lines of code should be removed.(ÙµÄüÿÿÿÿ8ÀµàÅğ0HèRMAJORZ
+CODE_SMELL

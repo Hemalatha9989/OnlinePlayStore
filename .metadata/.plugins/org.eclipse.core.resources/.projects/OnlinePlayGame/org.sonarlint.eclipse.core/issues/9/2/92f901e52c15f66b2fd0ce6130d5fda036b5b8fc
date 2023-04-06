@@ -1,0 +1,39 @@
+
+€	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÙñË8¾µàÅğ0HŒRMINORZ
+CODE_SMELL
+r
+java:S4684'"@Replace this persistent entity with a simple POJO or DTO object.(âØÑÀHRCRITICALZVULNERABILITY
+€	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(««ÎÆ8¾µàÅğ0HRMINORZ
+CODE_SMELL
+x	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(©ÙñË8æğúÇò0HRMAJORZ
+CODE_SMELL
+…	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×·İøÿÿÿÿ8¾µàÅğ0HRMINORZ
+CODE_SMELL
+x	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(««ÎÆ8æğúÇò0H‘RMAJORZ
+CODE_SMELL
+~	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¨¶—úÿÿÿÿH’RMINORZ
+CODE_SMELL
+r
+java:S46846"@Replace this persistent entity with a simple POJO or DTO object.(ğÉ¿ûH“RCRITICALZVULNERABILITY
+x	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(ğÉ¿û8æğúÇò0H”RMAJORZ
+CODE_SMELL
+}	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(×·İøÿÿÿÿ8æğúÇò0H•RMAJORZ
+CODE_SMELL
+y	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âØÑÀH–RMINORZ
+CODE_SMELL
+x	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(âØÑÀ8æğúÇò0H—RMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çíÎÛH˜RMINORZ
+CODE_SMELL
+…	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÿïïÿÿÿÿÿ8¾µàÅğ0H™RMINORZ
+CODE_SMELL
+}	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(í€çóüÿÿÿÿ8æğúÇò0HšRMAJORZ
+CODE_SMELL
+}	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(ğÿïïÿÿÿÿÿ8æğúÇò0H›RMAJORZ
+CODE_SMELL
+€	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÉ¿û8¾µàÅğ0HœRMINORZ
+CODE_SMELL
+~
+java:S4684?"@Replace this persistent entity with a simple POJO or DTO object.(Ü¨¶—úÿÿÿÿ8¾µàÅğ0HRCRITICALZVULNERABILITY
+…	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í€çóüÿÿÿÿ8¾µàÅğ0HRMINORZ
+CODE_SMELL

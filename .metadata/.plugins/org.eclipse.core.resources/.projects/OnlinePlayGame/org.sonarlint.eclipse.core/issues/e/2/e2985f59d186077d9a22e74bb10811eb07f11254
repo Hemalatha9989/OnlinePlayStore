@@ -1,0 +1,19 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çíÎÛHÏRMINORZ
+CODE_SMELL
+ˆ	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¬’Öùÿÿÿÿ8ÂµàÅğ0HĞRMINORZ
+CODE_SMELL
+€	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ—É£8ÂµàÅğ0HÑRMINORZ
+CODE_SMELL
+w
+java:S4684 "@Replace this persistent entity with a simple POJO or DTO object.(ÆæÉ¢úÿÿÿÿHÒRCRITICALZVULNERABILITY
+…	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¬’Öùÿÿÿÿ8ÂµàÅğ0HÓRMINORZ
+CODE_SMELL
+€	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¢Å8íÇ¯Şò0HÔRMINORZ
+CODE_SMELL
+€	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¶ß8ÂµàÅğ0HÕRMINORZ
+CODE_SMELL
+…	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÅĞøÿÿÿÿ8ÂµàÅğ0HÖRMINORZ
+CODE_SMELL
+…	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îğ³¶ûÿÿÿÿ8íÇ¯Şò0H×RMINORZ
+CODE_SMELL

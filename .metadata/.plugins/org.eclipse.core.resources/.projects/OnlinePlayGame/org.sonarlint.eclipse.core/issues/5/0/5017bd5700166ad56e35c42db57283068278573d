@@ -1,0 +1,43 @@
+
+i
+java:S3655‰"7Call "Optional#isPresent()" before accessing the value.(Ş…Âøÿÿÿÿ8ÅµàÅğ0H®RMAJORZBUG
+j
+java:S1135ˆ"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÅµàÅğ0H¯RINFOZ
+CODE_SMELL
+ˆ	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÊíÑúÿÿÿÿ8ÅµàÅğ0H°RMINORZ
+CODE_SMELL
+s	java:S1257"<This block of commented-out lines of code should be removed.(æ‹˜«øÿÿÿÿ8ÅµàÅğ0H±RMAJORZ
+CODE_SMELL
+h
+java:S3655~"7Call "Optional#isPresent()" before accessing the value.(Ş…Âøÿÿÿÿ8ÅµàÅğ0H²RMAJORZBUG
+c
+java:S36554"7Call "Optional#isPresent()" before accessing the value.(ü²Æ8ÅµàÅğ0H³RMAJORZBUG
+h
+java:S3655C"7Call "Optional#isPresent()" before accessing the value.(Ş…Âøÿÿÿÿ8ÅµàÅğ0H´RMAJORZBUG
+i
+java:S1135n"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÅµàÅğ0HµRINFOZ
+CODE_SMELL
+c
+java:S3655Q"7Call "Optional#isPresent()" before accessing the value.(¬áÈú8ÅµàÅğ0H¶RMAJORZBUG
+	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÌèøÿÿÿÿH·RMINORZ
+CODE_SMELL
+h
+java:S3655q"7Call "Optional#isPresent()" before accessing the value.(ë³ŞÀúÿÿÿÿ8ÅµàÅğ0H¸RMAJORZBUG
+h
+java:S3655`"7Call "Optional#isPresent()" before accessing the value.(Ş…Âøÿÿÿÿ8ÅµàÅğ0H¹RMAJORZBUG
+i
+java:S3655‹"7Call "Optional#isPresent()" before accessing the value.(ë³ŞÀúÿÿÿÿ8ÅµàÅğ0HºRMAJORZBUG
+m
+java:S4973S"<Strings and Boxed types should be compared using "equals()".(¢ŒĞúÿÿÿÿ8ÅµàÅğ0H»RMAJORZBUG
+h
+java:S3655j"7Call "Optional#isPresent()" before accessing the value.(˜Ãùõúÿÿÿÿ8ÅµàÅğ0H¾RMAJORZBUG
+i
+java:S1135i"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÅµàÅğ0H¿RINFOZ
+CODE_SMELL
+Š
+java:S1192d"ODefine a constant instead of duplicating this literal "User not Found" 4 times.(Æš…„ùÿÿÿÿ8ÅµàÅğ0HÀRCRITICALZ
+CODE_SMELL
+h
+java:S3655o"7Call "Optional#isPresent()" before accessing the value.(Ş…Âøÿÿÿÿ8ÅµàÅğ0HÅRMAJORZBUG
+h
+java:S36553"7Call "Optional#isPresent()" before accessing the value.(Ş…Âøÿÿÿÿ8ÅµàÅğ0HÆRMAJORZBUG

@@ -1,0 +1,11 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á¶êÖøÿÿÿÿHÆRMINORZ
+CODE_SMELL
+Š
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯°Õ©úÿÿÿÿHÇRMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHÉRINFOZ
+CODE_SMELL
+€	java:S116"PRename this field "Games" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¨¾±ûÿÿÿÿHÊRMINORZ
+CODE_SMELL

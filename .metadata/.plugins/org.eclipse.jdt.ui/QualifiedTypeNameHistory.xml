@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.exception.GameException"/>
+    <fullyQualifiedTypeName name="com.exception.PlayCardException"/>
+    <fullyQualifiedTypeName name="com.exception.QueryException"/>
+    <fullyQualifiedTypeName name="com.exception.UserException"/>
+</qualifiedTypeNameHistroy>

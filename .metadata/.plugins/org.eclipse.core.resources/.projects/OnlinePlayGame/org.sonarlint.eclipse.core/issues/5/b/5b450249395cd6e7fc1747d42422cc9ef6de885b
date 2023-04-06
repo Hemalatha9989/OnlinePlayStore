@@ -1,0 +1,5 @@
+
+c
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(¬áÈú8ÁµàÅð0HñRMAJORZBUG
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÑÓ¬8ÁµàÅð0HòRMINORZ
+CODE_SMELL

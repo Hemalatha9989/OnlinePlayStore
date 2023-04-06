@@ -1,0 +1,16 @@
+
+d
+java:S1611"3Remove the parentheses around the "error" parameter(ı£—ÔúÿÿÿÿHÿRMINORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘ÕÅ¾H€RMINORZ
+CODE_SMELL
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾³éÛüÿÿÿÿH‚RMINORZ
+CODE_SMELL
+o
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(¦ĞíH„RMAJORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂïùÁH…RMINORZ
+CODE_SMELL

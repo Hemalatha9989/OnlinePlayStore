@@ -1,0 +1,19 @@
+
+‚	java:S116*"WRename this field "CustomerCare" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÍ‡ÏHóRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á¶êÖøÿÿÿÿHôRMINORZ
+CODE_SMELL
+{
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›HõRMINORZ
+CODE_SMELL
+…
+java:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(À€éùH÷RMINORZ
+CODE_SMELL
+~	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¡’ÖûÿÿÿÿHùRMINORZ
+CODE_SMELL
+b
+java:S1135-"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHúRINFOZ
+CODE_SMELL
+…
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜûŸHûRMINORZ
+CODE_SMELL
